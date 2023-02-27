@@ -55,7 +55,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://blueberry1312.github.io/to-do-list/dist/)
+- [Live Demo Link](https://blueberry1312.github.io/to-do-list-review/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,7 +78,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-git clone https://github.com/blueberry1312/to-do-list.git
+git clone https://github.com/blueberry1312/to-do-list-review.git
 
 ### Install
 
@@ -107,7 +107,7 @@ To run the project, you need to run `npm start`. Will open [http://localhost:808
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- Reordering a selected item(task) (as drag-and-drop).
+- Save drag and drop with local storage.
 
 
 
@@ -118,7 +118,7 @@ To run the project, you need to run `npm start`. Will open [http://localhost:808
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/blueberry1312/to-do-list/issues).
+Feel free to check the [issues page](https://github.com/blueberry1312/to-do-list-review/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
